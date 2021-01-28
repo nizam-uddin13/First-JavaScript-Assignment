@@ -1,5 +1,3 @@
-// https://github.com/nizam-uddin13/First-JavaScript-Assignment
-
 /**================== Assignment Start ==================*/
 
 // Problem - (01) Conversion from kilometers to meters.
