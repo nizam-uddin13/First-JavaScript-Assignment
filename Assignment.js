@@ -1,4 +1,6 @@
-/**=============================================== Assignment Start ======================================*/
+// https://github.com/nizam-uddin13/First-JavaScript-Assignment
+
+/**================== Assignment Start ==================*/
 
 // Problem - (01) Conversion from kilometers to meters.
 function kilometerToMeter (kilometer){
@@ -6,10 +8,10 @@ function kilometerToMeter (kilometer){
         var meter = kilometer * 1000;
         return meter;
     }else{
-        console.log("aponi thick kore kilomiter then.")
+        return "aponi thick kore kilomiter then."
     }
 }
-var totalMeter = kilometerToMeter(10);
+var totalMeter = kilometerToMeter(-3);
 console.log(totalMeter); 
 
 
@@ -64,4 +66,4 @@ function megaFriend (){
 var largestName = megaFriend(friendsName)
 console.log(largestName);
 
-/**=============================================== Assignment Done ======================================*/
+/**================== Assignment Done ==================*/
